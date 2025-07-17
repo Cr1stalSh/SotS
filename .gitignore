@@ -5,6 +5,8 @@
 [Bb]uild/
 UserSettings/
 
+.vs/
+
 # Файлы IDE
 *.csproj
 *.unityproj
