@@ -1,0 +1,18 @@
+# Каталоги, генерируемые Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+UserSettings/
+
+# Файлы IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Логи и кэш
+*.log
+/[Cc]ache/
